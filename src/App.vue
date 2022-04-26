@@ -1,6 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
-  <div>This site is running on VueJs.</div>
+  <div>Hello {{ value }}. This site is running on VueJs.</div>
 </template>
 
 <script>
